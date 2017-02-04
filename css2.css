@@ -1,0 +1,31 @@
+body
+{
+background-image: url(" https://v.cdn.vine.co/s/avatars/828E6EB7-7EF8-4CB4-B913-7D45C9436EEF-4025-000003DA93B9328B702e739cb2.jpg?versionId=xhDpbVJ1xajZQ1oPSpJy.flPz7PS4MdX");
+background-attachment:fixed;
+background-position:center;
+color:yellow;
+
+}
+h1{
+font-color: black;
+font-family: sans-serif;
+word-spacing: 0.25em;
+letter-spacing: 0.3em;
+text-transform: uppercase;
+font-weight: bold;
+text-align: center;
+}
+
+p{
+font-family: sans-serif;
+text-align: left;
+word-spacing: 0.25em;
+letter-spacing: 0.3em;
+line-height: 1.5em;
+}
+
+h2{
+font-style: italic;
+text-align: center;
+font-weight: bold;
+}
